@@ -1,0 +1,28 @@
+@media (max-width:700px) {
+
+    #footermain{
+        text-align: center;
+
+    }
+    #footersub{
+        justify-content: center;
+    }
+    #img{
+        width: 100%;
+    }
+    #header{
+        text-align: center;
+    }
+    #header1{
+        text-align: center;
+    }
+    #forget {
+
+        display: flex;
+        justify-content: center;
+    }
+    #detail{
+        transform: translateX(-11px);
+    }
+
+}
